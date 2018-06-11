@@ -3,3 +3,10 @@ After knowing that Princeton University is retiring its Static Web Hosting (SWH)
 New website address: https://mshahrad.github.io , Old website address: http://www.princeton.edu/~mshahrad
 
 The base for my website is an open source template from HTML5 UP (https://html5up.net). So feel free to reuse my modified version or visit their website for other nice templates.
+
+
+Some Performance Comparison 
+
+After I moved my website from the university server to GitHub Pages, I did some performance profiling using the Pingdom tool (https://tools.pingdom.com). 
+
+![Alt text](performance_comparison.png?raw=true "Title")
