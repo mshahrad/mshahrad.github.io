@@ -5,8 +5,10 @@ New website address: https://mshahrad.github.io , Old website address: http://ww
 The base for my website is an open source template from HTML5 UP (https://html5up.net). So feel free to reuse my modified version or visit their website for other nice templates.
 
 
-Some Performance Comparison 
+## Some Performance Comparison 
 
-After I moved my website from the university server to GitHub Pages, I did some performance profiling using the Pingdom tool (https://tools.pingdom.com). 
+After I moved my website from the university server to GitHub Pages, I did some performance profiling using the Pingdom tool (https://tools.pingdom.com). The figure below compares the average load time for the website (5 measurements each):
 
 ![Alt text](performance_comparison.png?raw=true "Title")
+
+The website on GitHub Pages has considerably lower load time for places farther from Princeton. This should be due to its better CDN. 
