@@ -2661,6 +2661,17 @@
 		width: 100%;
 	}
 
+	#one_acoustic:before {
+		background-image: url("../../images/acoustic-ashes18-banner.png");
+		background-position: top center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: '';
+		display: block;
+		height: 15em;
+		width: 100%;
+	}
+
 	#one_hotcloud17:before {
 		background-image: url("../../images/shahrad_hotcloud17_banner.jpg");
 		background-position: top center;
@@ -2864,6 +2875,9 @@
 				height: 10em;
 			}
 			#one_self_cap:before {
+				height: 10em;
+			}
+			#one_acoustic:before {
 				height: 10em;
 			}
 			#one_hotcloud17:before {
@@ -3083,6 +3097,9 @@
 				height: 7em;
 			}
 			#one_self_cap:before {
+				height: 7em;
+			}
+			#one_acoustic:before {
 				height: 7em;
 			}
 			#one_hotcloud17:before {
