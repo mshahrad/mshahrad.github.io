@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Architectural Implications of Function-as-a-Service Computing</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/academicons.css"/>
+		<link rel="stylesheet" href="assets/css/label.css" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/mohammad_shahrad_arco_lamp.jpg" alt="" /></span>
+					<h1 id="logo"><a href="./index.html">Mohammad Shahrad</a></h1>
+					<p>Ph.D. Candidate<br>
+					Princeton University<br>
+					mshahrad/AT/princeton\DoT\edu</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="./index.html">Homepage</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://twitter.com/MShahrad" class="icon fa-twitter fa-2x"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.linkedin.com/in/mshahrad" class="icon fa-linkedin fa-2x"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://scholar.google.com/citations?user=iXgmttoAAAAJ&hl=en" class="ai ai-google-scholar-square ai-3x"><span class="label"></span></a></li>
+						<!-- <li><a href="#" class="icon fa-envelope fa-2x"><span class="label">Email</span></a></li> -->
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one_faas">
+								<div class="container">
+									<header class="major">
+										<h3>Architectural Implications of Function-as-a-Service Computing</h3>
+									</header>
+									<p> Chances are that you have heard the rapidly growing term "serverless" or even worked with serverless offerings such as <a href="https://aws.amazon.com/lambda/">AWS Lambda</a>. Everyone loves them because serverless cloud services provide fine-grained provisioning of resources that scale automatically with user demand. Function as a service (more commonly-known as FaaS) applications follow this serverless model. The developer provides their application as a set of functions that are executed in response to a user- or system-generated event. </p>
+                                    <p> The emerging FaaS paradigm got us into thinking about its implications on future cloud servers. Specifically, we were curious to understand whether the short-lived, deeply-virtualized function executions have overheads on contemporary cloud processors. So we took the commercial-grade <a href="https://openwhisk.apache.org/">Apache OpenWhisk</a> FaaS platform and carefully ran it on real servers to investigate and identify the architectural implications of FaaS serverless computing. </p>
+                                    <p> We found that the FaaS workloads, along with the way that FaaS inherently interleaves short functions from various tenants frustrates many of the locality-preserving architectural structures common in modern processors. Some of our findings have been reported by others too. These include a noticeable slowdown due to containerization compared to native execution, and significant latency overhead of cold starts. However, we also realized deeper architectural overheads. For instance, short functions have considerably higher branch mispredictions rates, per invocation memory bandwidth usage is much higher compared to native execution, and inter-function interference has a major impact on the server's IPC. I invite you to read our paper to find out these and more detailed observations. </p>
+
+									<ul class="actions" align="center">
+										<li><a href="http://parallel.princeton.edu/papers/micro19-shahrad.pdf" class="button special icon fa-file-pdf-o">Paper</a></li>
+										<li><a href="bibtex/architectural_implications_of_function-as-a-service_computing.bib" class="button special icon fa-download" download="architectural_implications_of_function-as-a-service_computing.bib">BibTex</a></li>
+										<li><a href="https://github.com/PrincetonUniversity/faas-profiler" class="button special icon fa-github">FaaSProfiler Tool & Benchmarks</a></li>
+									</ul>
+
+									<p> Given the limitations we faced early on in the project, we developed a testing and profiling tool, called <a href="https://github.com/PrincetonUniversity/faas-profiler">FaaSProfiler</a>. We open-sourced it, as we think it would accelerate other serverless research endeavors. Here are some of its useful components: </p>
+                                    
+                                    <ol>
+                                        <li> Invoking various functions with various invocation patterns made easy. You can simply specify synthetic distributions or feed in traces of inter-arrival times to describe complex invocation patterns in a rich JSON format. </li>
+                                        <li> Automated handling of large amount of performance and profiling data. </li>
+                                        <li> A number of representative benchmarks and microbenchmarks. </li>
+                                    </ol>  
+
+									Related talks:
+									<ul>
+										<li>
+											<font size="2vw">Title: Architectural Implications of Function-as-a-Service Computing</font><br>
+											<font size="2vw">Speaker: Jonathan Balkind </font><br>
+											<font size="2vw">Venue: 52nd IEEE/ACM International Symposium on Microarchitecture, Columbus, Ohio</font><br>
+											<font size="2vw">Date: 10/16/2019</font>
+										</li>
+										<li>
+											<font size="2vw">Title: Serverless Computing, An Architectural Perspective</font><br>
+											<font size="2vw">Speaker: Mohammad Shahrad </font><br>
+											<font size="2vw">Venue: Electrical and Computer Engineering Department, University of Waterloo, Canada</font><br>
+											<font size="2vw">Date: 10/10/2019</font>
+										</li>
+									</ul>
+									
+									<br>
+									<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+								</div>
+							</section>
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<!-- <li>&copy; Untitled. All rights reserved.</li> -->
+								<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollzer.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+			<!-- Default Statcounter code for https://mshahrad.github.io -->
+			<script type="text/javascript">
+			var sc_project=11735040; 
+			var sc_invisible=1; 
+			var sc_security="90a07d00"; 
+			</script>
+			<script type="text/javascript"
+			src="https://www.statcounter.com/counter/counter.js"
+			async></script>
+			<noscript><div class="statcounter"><a title="Web Analytics"
+			href="http://statcounter.com/" target="_blank"><img
+			class="statcounter"
+			src="//c.statcounter.com/11735040/0/90a07d00/1/" alt="Web
+			Analytics"></a></div></noscript>
+			<!-- End of Statcounter Code -->
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-80541256-2"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'UA-80541256-2');
+			</script>
+
+	</body>
+</html>

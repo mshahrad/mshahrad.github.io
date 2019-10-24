@@ -2705,6 +2705,17 @@
 		width: 100%;
 	}
 
+	#one_faas:before {
+		background-image: url("../../images/faas-micro19-banner.jpg");
+		background-position: top center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: '';
+		display: block;
+		height: 15em;
+		width: 100%;
+	}
+
 /* Footer */
 
 	#footer {
@@ -2898,6 +2909,9 @@
 				height: 10em;
 			}
 			#one_acoustic:before {
+				height: 10em;
+			}
+			#one_faas:before {
 				height: 10em;
 			}
 
@@ -3123,6 +3137,9 @@
 				height: 7em;
 			}
 			#one_acoustic:before {
+				height: 7em;
+			}
+			#one_faas:before {
 				height: 7em;
 			}
 
