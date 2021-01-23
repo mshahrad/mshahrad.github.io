@@ -2716,6 +2716,17 @@
 		width: 100%;
 	}
 
+	#one_atc20:before {
+		background-image: url("../../images/serverless_in_the_wild-atc20-banner.png");
+		background-position: top center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: '';
+		display: block;
+		height: 15em;
+		width: 100%;
+	}
+
 	#one_jobmarket:before {
 		background-image: url("../../images/job-market_banner.jpg");
 		background-position: top center;
@@ -2923,6 +2934,9 @@
 				height: 10em;
 			}
 			#one_faas:before {
+				height: 10em;
+			}
+			#one_atc20:before {
 				height: 10em;
 			}
 			#one_jobmarket:before {
@@ -3154,6 +3168,9 @@
 				height: 7em;
 			}
 			#one_faas:before {
+				height: 7em;
+			}
+			#one_atc20:before {
 				height: 7em;
 			}
 			#one_jobmarket:before {
