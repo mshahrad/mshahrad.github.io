@@ -1,7 +1,7 @@
 document.write('\
 <ul>\
 <li>\
-June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.ca/research/stair">UBC Science STAIR</a> grant to fund our interdisciplinary research.\
+June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.ca/research/stair">UBC Science STAIR</a> grant to pursue our interdisciplinary research.\
 </li>\
 <li>\
 May \'22 - Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf">related paper</a>)\
