@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.ca/research/stair">UBC Science STAIR</a> grant to fund our interdisciplinary research.\
+</li>\
+<li>\
 May \'22 - Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf">related paper</a>)\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ February \'22 - It was a pleasure to give <a href="https://wss.ce.sharif.edu/sch
 </li>\
 <li>\
 November \'21 - Gave an invited talk at the Data Center Networking workshop.\
-</li>\
-<li>\
-August \'21 - Two papers accepted to <a href="https://acmsocc.org/2021/index.html">SoCC \'21</a>.\
 </li>\
 </ul>\
 ');
