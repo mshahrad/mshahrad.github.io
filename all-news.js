@@ -1,25 +1,28 @@
 document.write('\
 <ul>\
 <li>\
-June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.ca/research/stair">UBC Science STAIR</a> grant to pursue our interdisciplinary research.\
+September \'22 - Participated and presented at the Serverless Computing roundtable at University of Waterloo. (related papers: <a href="https://arxiv.org/pdf/2206.13444.pdf" target="_blank">resource-centric serverless</a> and <a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf" target="_blank">multi-cloud serverless</a>)\
 </li>\
 <li>\
-May \'22 - Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf">related paper</a>)\
+June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.ca/research/stair" target="_blank">UBC Science STAIR</a> grant to pursue our interdisciplinary research.\
 </li>\
 <li>\
-March \'22 - Excited to be selected as a <a href="https://cloud.google.com/edu/researchers/innovators">Google Cloud Research Innovator</a>.\
+May \'22 - Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf" target="_blank">related paper</a>)\
 </li>\
 <li>\
-February \'22 - It was a pleasure to give <a href="https://wss.ce.sharif.edu/schedule">an invited talk</a> at my alma mater, Sharif University of Technology.\
+March \'22 - Excited to be selected as a <a href="https://cloud.google.com/edu/researchers/innovators" target="_blank">Google Cloud Research Innovator</a>.\
+</li>\
+<li>\
+February \'22 - It was a pleasure to give <a href="https://wss.ce.sharif.edu/schedule" target="_blank">an invited talk</a> at my alma mater, Sharif University of Technology.\
 </li>\
 <li>\
 November \'21 - Gave an invited talk at the Data Center Networking workshop.\
 </li>\
 <li>\
-August \'21 - Two papers accepted to <a href="https://acmsocc.org/2021/index.html">SoCC \'21</a>.\
+August \'21 - Two papers accepted to <a href="https://acmsocc.org/2021/index.html" target="_blank">SoCC \'21</a>.\
 </li>\
 <li>\
-July \'21 - Visited University of Waterloo virtually to give <a href="https://cs.uwaterloo.ca/events/systems-and-networking-insights-from-two-serverless-characterization-studies">an invited talk at the Systems and Networking Seminar</a>.\
+July \'21 - Visited University of Waterloo virtually to give <a href="https://cs.uwaterloo.ca/events/systems-and-networking-insights-from-two-serverless-characterization-studies" target="_blank">an invited talk at the Systems and Networking Seminar</a>.\
 </li>\
 <li>\
 May \'21 - Honored to give a keynote at the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21201">Dagstuhl Seminar on Serverless Computing</a>!\

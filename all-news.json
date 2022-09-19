@@ -1,19 +1,23 @@
 {
+    "22-09_1": {
+        "date":"September '22",
+        "content":"Participated and presented at the Serverless Computing roundtable at University of Waterloo. (related papers: <a href=\"https://arxiv.org/pdf/2206.13444.pdf\" target=\"_blank\">resource-centric serverless</a> and <a href=\"https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf\" target=\"_blank\">multi-cloud serverless</a>)"
+    },
     "22-06_1": {
         "date":"June '22",
-        "content":"Prof. Aastha Mehta and I are awarded a <a href=\"https://science.ubc.ca/research/stair\">UBC Science STAIR</a> grant to pursue our interdisciplinary research."
+        "content":"Prof. Aastha Mehta and I are awarded a <a href=\"https://science.ubc.ca/research/stair\" target=\"_blank\">UBC Science STAIR</a> grant to pursue our interdisciplinary research."
     },
     "22-05_1": {
         "date":"May '22",
-        "content":"Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href=\"https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf\">related paper</a>)"
+        "content":"Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href=\"https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf\" target=\"_blank\">related paper</a>)"
     },
     "22-03_1": {
         "date":"March '22",
-        "content":"Excited to be selected as a <a href=\"https://cloud.google.com/edu/researchers/innovators\">Google Cloud Research Innovator</a>."
+        "content":"Excited to be selected as a <a href=\"https://cloud.google.com/edu/researchers/innovators\" target=\"_blank\">Google Cloud Research Innovator</a>."
     },
     "22-02_1": {
         "date":"February '22",
-        "content":"It was a pleasure to give <a href=\"https://wss.ce.sharif.edu/schedule\">an invited talk</a> at my alma mater, Sharif University of Technology."
+        "content":"It was a pleasure to give <a href=\"https://wss.ce.sharif.edu/schedule\" target=\"_blank\">an invited talk</a> at my alma mater, Sharif University of Technology."
     },
     "21-11_1": {
         "date":"November '21",
@@ -21,11 +25,11 @@
     },
     "21-08_1": {
         "date":"August '21",
-        "content":"Two papers accepted to <a href=\"https://acmsocc.org/2021/index.html\">SoCC '21</a>."
+        "content":"Two papers accepted to <a href=\"https://acmsocc.org/2021/index.html\" target=\"_blank\">SoCC '21</a>."
     },
     "21-07_1": {
         "date":"July '21",
-        "content":"Visited University of Waterloo virtually to give <a href=\"https://cs.uwaterloo.ca/events/systems-and-networking-insights-from-two-serverless-characterization-studies\">an invited talk at the Systems and Networking Seminar</a>."
+        "content":"Visited University of Waterloo virtually to give <a href=\"https://cs.uwaterloo.ca/events/systems-and-networking-insights-from-two-serverless-characterization-studies\" target=\"_blank\">an invited talk at the Systems and Networking Seminar</a>."
     },
     "21-05_1": {
         "date":"May '21",
