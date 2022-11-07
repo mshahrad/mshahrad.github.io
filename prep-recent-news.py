@@ -3,7 +3,6 @@
 RECENT_NEWS_COUNT = 5
 
 import json
-from types import DynamicClassAttribute
 
 with open('./all-news.json') as f:
   allNews = json.load(f)
