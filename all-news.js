@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+November \'22 - Excited to be selected in the <a href="https://greencollege.ubc.ca/leading-scholars-program" target="_blank">2022-24 UBC Green College Leading Scholars Cohort</a>.\
+</li>\
+<li>\
 September \'22 - Participated and presented at the Serverless Computing roundtable at University of Waterloo. (related papers: <a href="https://arxiv.org/pdf/2206.13444.pdf" target="_blank">resource-centric serverless</a> and <a href="https://ubc-cirrus-lab.github.io/papers/socc21_multi-cloud_serverless.pdf" target="_blank">multi-cloud serverless</a>)\
 </li>\
 <li>\
