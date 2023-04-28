@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+April \'22 - Two of our papers are accepted to <a href="https://www.usenix.org/conference/atc23" target="_blank">USENIX ATC \'23</a>!\
+</li>\
+<li>\
 November \'22 - Excited to be selected for the <a href="https://greencollege.ubc.ca/leading-scholars-program" target="_blank">2022-24 Cohort of the UBC Green College Leading Scholars</a>.\
 </li>\
 <li>\

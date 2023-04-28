@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+April \'22 - Two of our papers are accepted to <a href="https://www.usenix.org/conference/atc23" target="_blank">USENIX ATC \'23</a>!\
+</li>\
+<li>\
 November \'22 - Excited to be selected for the <a href="https://greencollege.ubc.ca/leading-scholars-program" target="_blank">2022-24 Cohort of the UBC Green College Leading Scholars</a>.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ June \'22 - Prof. Aastha Mehta and I are awarded a <a href="https://science.ubc.
 </li>\
 <li>\
 May \'22 - Gave an invited talk on Multi-Cloud Serverless Computing at the IBM Global Technology Outlook seminar series on Future of Cloud Computing. (<a href="https://cirrus.ece.ubc.ca/papers/socc21_multi-cloud_serverless.pdf" target="_blank">related paper</a>)\
-</li>\
-<li>\
-March \'22 - Excited to be selected as a <a href="https://cloud.google.com/edu/researchers/innovators" target="_blank">Google Cloud Research Innovator</a>.\
 </li>\
 </ul>\
 ');
