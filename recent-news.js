@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+September \'23 - Presented our collaborative research with the IBM Code Engine at the <a href="https://www.ibm.com/community/ibm-techxchange-conference/" target="_blank">IBM TechXchange Conference</a>.\
+</li>\
+<li>\
 September \'23 - Our paper is accepted to <a href="https://acmsocc.org/2023/" target="_blank">ACM SoCC \'23</a>.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ April \'23 - Two of our papers are accepted to <a href="https://www.usenix.org/c
 </li>\
 <li>\
 November \'22 - Excited to be selected for the <a href="https://greencollege.ubc.ca/leading-scholars-program" target="_blank">2022-24 Cohort of the UBC Green College Leading Scholars</a>.\
-</li>\
-<li>\
-September \'22 - Participated and presented at the Serverless Computing roundtable at University of Waterloo. (related papers: <a href="https://arxiv.org/pdf/2206.13444.pdf" target="_blank">resource-centric serverless</a> and <a href="https://cirrus.ece.ubc.ca/papers/socc21_multi-cloud_serverless.pdf" target="_blank">multi-cloud serverless</a>)\
 </li>\
 </ul>\
 ');

@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+September \'23 - Presented our collaborative research with the IBM Code Engine at the <a href="https://www.ibm.com/community/ibm-techxchange-conference/" target="_blank">IBM TechXchange Conference</a>.\
+</li>\
+<li>\
 September \'23 - Our paper is accepted to <a href="https://acmsocc.org/2023/" target="_blank">ACM SoCC \'23</a>.\
 </li>\
 <li>\
