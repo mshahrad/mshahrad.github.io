@@ -1,11 +1,15 @@
 {
+    "23-10_1": {
+        "date":"October '23",
+        "content":"Gave an invited talk on serverless at the MongoDB Perf Tech Talk Series."
+    },
     "23-09_2": {
         "date":"September '23",
         "content":"Presented our collaborative research with the IBM Code Engine at the <a href=\"https://www.ibm.com/community/ibm-techxchange-conference/\" target=\"_blank\">IBM TechXchange Conference</a>."
     },
     "23-09_1": {
         "date":"September '23",
-        "content":"Our paper is accepted to <a href=\"https://acmsocc.org/2023/\" target=\"_blank\">ACM SoCC '23</a>."
+        "content":"Our paper is accepted to <a href=\"https://acmsocc.org/2023/\" target=\"_blank\">ACM SoCC '23</a>. [<a href=\"https://cirrus.ece.ubc.ca/papers/socc23_parrotfish.pdf\" target=\"_blank\">Paper Draft</a>]"
     },
     "23-06_1": {
         "date":"June '23",
