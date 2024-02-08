@@ -4,6 +4,9 @@ document.write('\
 October \'23 - Gave an invited talk on serverless at the MongoDB Perf Tech Talk Series.\
 </li>\
 <li>\
+September \'23 - Gave a guest talk at the <a href="https://unikraft.org/hackathons/2023-09-vancouver" target="_blank">Vancouver Unikraft Hackathon</a>.\
+</li>\
+<li>\
 September \'23 - Presented our collaborative research with the IBM Code Engine at the <a href="https://www.ibm.com/community/ibm-techxchange-conference/" target="_blank">IBM TechXchange Conference</a>.\
 </li>\
 <li>\
