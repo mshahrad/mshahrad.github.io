@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+April \'24 - Excited to contribute to the <a href="https://edas.info/web/nsf-wscs24/accepted-contributions.html" target="_blank">NSF Workshop on Sustainable Computing for Sustainability</a>.\
+</li>\
+<li>\
 October \'23 - Gave an invited talk on serverless at the MongoDB Perf Tech Talk Series.\
 </li>\
 <li>\
