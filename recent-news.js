@@ -1,7 +1,7 @@
 document.write('\
 <ul>\
 <li>\
-June \'24 - Our paper is accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon \'24</a>.\
+June \'24 - Our paper is accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon \'24</a>. (<a href="https://cirrus.ece.ubc.ca/papers/hotcarbon24_lin.pdf" target="_blank">Paper Draft</a>)\
 </li>\
 <li>\
 June \'24 - Our team will present the <a href="https://github.com/ubc-cirrus-lab/parrotfish" target="_blank">Parrotfish</a> tool at <a href="https://www.serverlesscomputing.org/woscx3/index.html" target="_blank">WOSCx3</a>.\
