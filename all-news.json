@@ -1,7 +1,11 @@
 {
+    "24-08_1": {
+        "date":"August '24",
+        "content":"We have our paper accepted to <a href=\"https://sigops.org/s/conferences/sosp/2024/\" target=\"_blank\">SOSP '24</a>."
+    },
     "24-06_2": {
         "date":"June '24",
-        "content":"Our paper is accepted to <a href=\"https://hotcarbon.org/\" target=\"_blank\">HotCarbon '24</a>. (<a href=\"https://cirrus.ece.ubc.ca/papers/hotcarbon24_lin.pdf\" target=\"_blank\">Paper Draft</a>)"
+        "content":"Our <a href=\"https://cirrus.ece.ubc.ca/papers/hotcarbon24_lin.pdf\" target=\"_blank\">paper</a> is accepted to <a href=\"https://hotcarbon.org/\" target=\"_blank\">HotCarbon '24</a>."
     },
     "24-06_1": {
         "date":"June '24",
@@ -89,7 +93,7 @@
     },
     "20-06_1": {
         "date":"June '20",
-        "content":"Completed my PhD defense at Princeton Univeristy! Thankful for my amazing advisor, Dave, and all my friends and family! <a href=\"https://www.flickr.com/photos/133851305@N08/albums/72157714856030187\">Here</a> are some photos."
+        "content":"Completed my PhD defense at Princeton University! Thankful for my amazing advisor, Dave, and all my friends and family! <a href=\"https://www.flickr.com/photos/133851305@N08/albums/72157714856030187\">Here</a> are some photos."
     },
     "20-05_1": {
         "date":"May '20",

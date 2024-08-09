@@ -1,7 +1,10 @@
 document.write('\
 <ul>\
 <li>\
-June \'24 - Our paper is accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon \'24</a>. (<a href="https://cirrus.ece.ubc.ca/papers/hotcarbon24_lin.pdf" target="_blank">Paper Draft</a>)\
+August \'24 - We have our paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>.\
+</li>\
+<li>\
+June \'24 - Our <a href="https://cirrus.ece.ubc.ca/papers/hotcarbon24_lin.pdf" target="_blank">paper</a> is accepted to <a href="https://hotcarbon.org/" target="_blank">HotCarbon \'24</a>.\
 </li>\
 <li>\
 June \'24 - Our team will present the <a href="https://github.com/ubc-cirrus-lab/parrotfish" target="_blank">Parrotfish</a> tool at <a href="https://www.serverlesscomputing.org/woscx3/index.html" target="_blank">WOSCx3</a>.\
@@ -67,7 +70,7 @@ March \'21 - Thank you <a href="https://www-01.ibm.com/ibm/cas/canada/">IBM CAS 
 July \'20 - Humbled to receive the USENIX ATC Community Award!\
 </li>\
 <li>\
-June \'20 - Completed my PhD defense at Princeton Univeristy! Thankful for my amazing advisor, Dave, and all my friends and family! <a href="https://www.flickr.com/photos/133851305@N08/albums/72157714856030187">Here</a> are some photos.\
+June \'20 - Completed my PhD defense at Princeton University! Thankful for my amazing advisor, Dave, and all my friends and family! <a href="https://www.flickr.com/photos/133851305@N08/albums/72157714856030187">Here</a> are some photos.\
 </li>\
 <li>\
 May \'20 - Delighted to announce that I will join the Department of Electrical and Computer Engineering at UBC as an Assistant Professor, starting July 2021.\
