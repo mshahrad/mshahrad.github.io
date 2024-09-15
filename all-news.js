@@ -1,7 +1,7 @@
 document.write('\
 <ul>\
 <li>\
-September \'24 - Our paper is accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">IEEE S&P (Oakland)</a>.\
+September \'24 - Our paper is accepted to <a href="https://sp2025.ieee-security.org/" target="_blank">IEEE S&P (Oakland)</a>.\
 </li>\
 <li>\
 August \'24 - We have our paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>.\
