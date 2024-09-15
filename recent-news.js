@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+September \'24 - Our paper is accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">IEEE S&P (Oakland)</a>.\
+</li>\
+<li>\
 August \'24 - We have our paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">SOSP \'24</a>.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ June \'24 - Our team will present the <a href="https://github.com/ubc-cirrus-lab
 </li>\
 <li>\
 April \'24 - Excited to contribute to the <a href="https://edas.info/web/nsf-wscs24/accepted-contributions.html" target="_blank">NSF Workshop on Sustainable Computing for Sustainability</a>.\
-</li>\
-<li>\
-October \'23 - Gave an invited talk on serverless at the MongoDB Perf Tech Talk Series.\
 </li>\
 </ul>\
 ');
