@@ -1,11 +1,19 @@
 {
+    "24-11_1": {
+        "date":"November '24",
+        "content":"Presented an invited talk at the <a href=\"https://events.vtools.ieee.org/m/435828\" target=\"_blank\">IEEE Vancouver Consultants Network's November Webinar</a>."
+    },
+    "24-09_2": {
+        "date":"September '24",
+        "content":"Our <a href=\"https://dl.acm.org/doi/10.1145/3698038.3698542\" target=\"_blank\">vision paper</a> with MIT and UMass researchers is accepted to SoCC '24."
+    },
     "24-09_1": {
         "date":"September '24",
         "content":"Our paper is accepted to <a href=\"https://sp2025.ieee-security.org/\" target=\"_blank\">IEEE S&P (Oakland)</a>."
     },
     "24-08_1": {
         "date":"August '24",
-        "content":"We have our <a href=\"https://cirrus.ece.ubc.ca/papers/sosp24_caribou.pdf\" target=\"_blank\">paper</a> accepted to <a href=\"https://sigops.org/s/conferences/sosp/2024/\" target=\"_blank\">SOSP '24</a>."
+        "content":"Our <a href=\"https://cirrus.ece.ubc.ca/papers/sosp24_caribou.pdf\" target=\"_blank\">paper</a> on Caribou is accepted to <a href=\"https://sigops.org/s/conferences/sosp/2024/\" target=\"_blank\">SOSP '24</a>."
     },
     "24-06_2": {
         "date":"June '24",
