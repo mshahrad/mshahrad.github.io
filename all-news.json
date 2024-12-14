@@ -1,7 +1,15 @@
 {
+    "24-12_2": {
+        "date":"December '24",
+        "content":"Presented our latest work at the Azure Research - Systems group."
+    },
+    "24-12_1": {
+        "date":"December '24",
+        "content":"It was great presenting at the <a href=\"https://events.vtools.ieee.org/m/435828\" target=\"_blank\">vHive Community Meetup</a>."
+    },
     "24-11_1": {
         "date":"November '24",
-        "content":"Presented an invited talk at the <a href=\"https://events.vtools.ieee.org/m/435828\" target=\"_blank\">IEEE Vancouver Consultants Network's November Webinar</a>."
+        "content":"Presented an invited talk at the <a href=\"https://events.vtools.ieee.org/m/435828\" target=\"_blank\">IEEE Vancouver Consultants Network</a>."
     },
     "24-09_2": {
         "date":"September '24",
