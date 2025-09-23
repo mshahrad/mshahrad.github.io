@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+August \'25 - Two of our papers are accepted at ACM EuroSys \'26.\
+</li>\
+<li>\
 December \'24 - Presented our latest work at the Azure Research - Systems group.\
 </li>\
 <li>\
@@ -11,9 +14,6 @@ November \'24 - Presented an invited talk at the <a href="https://events.vtools.
 </li>\
 <li>\
 September \'24 - Our <a href="https://dl.acm.org/doi/10.1145/3698038.3698542" target="_blank">vision paper</a> with MIT and UMass researchers is accepted to SoCC \'24.\
-</li>\
-<li>\
-September \'24 - Our paper is accepted to <a href="https://sp2025.ieee-security.org/" target="_blank">IEEE S&P (Oakland)</a>.\
 </li>\
 </ul>\
 ');

@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+August \'25 - Two of our papers are accepted at ACM EuroSys \'26.\
+</li>\
+<li>\
 December \'24 - Presented our latest work at the Azure Research - Systems group.\
 </li>\
 <li>\
