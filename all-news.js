@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+December \'25 - Our paper is accepted at USENIX NSDI \'26.\
+</li>\
+<li>\
 August \'25 - Two of our papers are accepted at ACM EuroSys \'26.\
 </li>\
 <li>\
