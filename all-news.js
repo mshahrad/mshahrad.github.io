@@ -1,6 +1,9 @@
 document.write('\
 <ul>\
 <li>\
+December \'25 - Presented our latest work at Princeton University and Stevens Institute of Technology.\
+</li>\
+<li>\
 December \'25 - Our paper is accepted at USENIX NSDI \'26.\
 </li>\
 <li>\
