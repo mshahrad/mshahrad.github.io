@@ -1,11 +1,15 @@
 {
+    "26-4_1": {
+        "date":"April '26",
+        "content":"Gave a <a href=\"https://cirrus.ece.ubc.ca/talks/26_sesame_keynote_shahrad.pdf\" target=\"_blank\">keynote</a> at the 4th SESAME workshop at EuroSys '26."
+    },
     "25-12_2": {
         "date":"December '25",
         "content":"Presented our latest work at Princeton University and Stevens Institute of Technology."
     },
     "25-12_1": {
         "date":"December '25",
-        "content":"Our paper is accepted at USENIX NSDI '26."
+        "content":"Our <a href=\"https://www.usenix.org/conference/nsdi26/presentation/baqershahi\" target=\"_blank\">paper</a> is accepted at USENIX NSDI '26."
     },
     "25-8_1": {
         "date":"August '25",
