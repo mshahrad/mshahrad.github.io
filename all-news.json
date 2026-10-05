@@ -1,7 +1,11 @@
 {
+    "26-9_1": {
+        "date":"September '26",
+        "content":"Presented <a href=\"https://dl.acm.org/doi/10.1145/3837779.3838168\" target=\"_blank\">μslice</a> at the eBPF workshop at SOSP '26."
+    },
     "26-7_2": {
         "date":"July '26",
-        "content":"Served on the HotCarbon '26 panel on \"AI and Carbon\"."
+        "content":"Served on the HotCarbon '26 panel on \"AI and Carbon\". (<a href=\"https://www.youtube.com/watch?v=dmE6XZrujFs\" target=\"_blank\">recording</a>)"
     },
     "26-7_1": {
         "date":"July '26",
